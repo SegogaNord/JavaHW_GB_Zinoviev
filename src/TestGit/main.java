@@ -1,2 +1,4 @@
-package TestGit;public class main {
+package TestGit;
+
+public class main { "testgit"
 }
